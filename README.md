@@ -34,5 +34,6 @@
 > [11.0.zip](https://github.com/ywdonga/DeviceSupport/blob/master/11.0.zip?raw=true)
 > [11.1.zip](https://github.com/ywdonga/DeviceSupport/blob/master/11.1.zip?raw=true)
 > [11.2.zip](https://github.com/ywdonga/DeviceSupport/blob/master/11.2%20(15C107).zip?raw=true)
+> [11.3.zip](https://github.com/ywdonga/DeviceSupport/raw/master/11.3%20(15E5201e).zip)
 
 
