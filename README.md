@@ -13,7 +13,7 @@
 ![](http://oy24h4wgd.bkt.clouddn.com/15216229194822.jpg)
 
 2.将下在好的文件放入`DeviceSupport`目录
-![](http://oy24h4wgd.bkt.clouddn.com/Jietu20180321-172600.jpg)
+
 
 ### iOS真机调试支持文件 
 下载地址如下，后面会持续更新
