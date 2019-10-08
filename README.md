@@ -1,4 +1,4 @@
-# DeviceSupport iOS 13.1 真机调试文件
+# DeviceSupport iOS 13.2 真机调试文件
 
 [github地址](https://github.com/ywdonga/DeviceSupport)
 [简书地址](https://www.jianshu.com/p/660c5135bb08)
@@ -48,3 +48,4 @@
 >[12.4.zip](https://github.com/ywdonga/DeviceSupport/blob/master/12.4.zip?raw=true)
 > [13.0.zip](https://github.com/ywdonga/DeviceSupport/blob/master/13.0.zip?raw=true)
 > [13.1.zip](https://github.com/ywdonga/DeviceSupport/blob/master/13.1.zip?raw=true)
+> [13.2.zip](https://github.com/ywdonga/DeviceSupport/blob/master/13.2.zip?raw=true)
