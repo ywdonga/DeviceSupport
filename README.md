@@ -1,4 +1,4 @@
-# DeviceSupport iOS 13.2 真机调试文件
+# DeviceSupport iOS 14.0 真机调试文件
 
 [github地址](https://github.com/ywdonga/DeviceSupport)
 [简书地址](https://www.jianshu.com/p/660c5135bb08)
@@ -22,8 +22,8 @@
 
 ### iOS真机调试支持文件 
 下载地址如下，后面会持续更新
-
-> [13.5.zip](https://github.com/ywdonga/DeviceSupport/blob/master/13.4.zip?raw=true)
+> [14.0.zip](https://github.com/ywdonga/DeviceSupport/blob/master/14.0.zip?raw=true)
+> [13.5.zip](https://github.com/ywdonga/DeviceSupport/blob/master/13.5.zip?raw=true)
 > [13.4.zip](https://github.com/ywdonga/DeviceSupport/blob/master/13.4.zip?raw=true)
 > [13.3.zip](https://github.com/ywdonga/DeviceSupport/blob/master/13.3.zip?raw=true)
 > [13.2.zip](https://github.com/ywdonga/DeviceSupport/blob/master/13.2.zip?raw=true)
