@@ -1,4 +1,4 @@
-# DeviceSupport iOS 14.6 真机调试文件
+# DeviceSupport iOS 15.0 真机调试文件
 
 [github地址](https://github.com/ywdonga/DeviceSupport)
 [简书地址](https://www.jianshu.com/p/660c5135bb08)
@@ -23,6 +23,8 @@
 ### iOS真机调试支持文件 
 下载地址如下，后面会持续更新
 > [15.0.zip](https://github.com/ywdonga/DeviceSupport/blob/master/15.0.zip?raw=true)
+> [14.7.1.zip](https://github.com/ywdonga/DeviceSupport/blob/master/15.0.zip?raw=true)
+> [14.7.zip](https://github.com/ywdonga/DeviceSupport/blob/master/15.0.zip?raw=true)
 > [14.6.zip](https://github.com/ywdonga/DeviceSupport/blob/master/14.6.zip?raw=true)
 > [14.5.zip](https://github.com/ywdonga/DeviceSupport/blob/master/14.5.zip?raw=true)
 > [14.4.zip](https://github.com/ywdonga/DeviceSupport/blob/master/14.4.zip?raw=true)
