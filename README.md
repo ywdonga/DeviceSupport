@@ -22,6 +22,8 @@
 
 ### iOS真机调试支持文件 
 下载地址如下，后面会持续更新
+> [15.4.zip](https://github.com/ywdonga/DeviceSupport/blob/master/15.4.zip?raw=true)
+> [15.2.zip](https://github.com/ywdonga/DeviceSupport/blob/master/15.2.zip?raw=true)
 > [15.0.zip](https://github.com/ywdonga/DeviceSupport/blob/master/15.0.zip?raw=true)
 > [14.7.1.zip](https://github.com/ywdonga/DeviceSupport/blob/master/14.7.1.zip?raw=true)
 > [14.7.zip](https://github.com/ywdonga/DeviceSupport/blob/master/14.7.zip?raw=true)
